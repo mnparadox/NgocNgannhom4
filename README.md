@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ngọc Ngân - Tiểu sử và Giới thiệu</title>
 </head>
 <body>
     <table width="60%" align="center" border="1" cellspacing="0" cellpadding="10">
@@ -15,7 +14,7 @@
         <tr>
             <td colspan="2" align="center">
                 <video width="100%" controls>
-                    <source src="6060954511816.mp4" type="video/mp4">
+                    <source src="0379da155b44e11ab855.jpg" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </td>
