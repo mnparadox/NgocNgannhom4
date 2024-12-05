@@ -12,10 +12,11 @@
             </td>
         </tr>
         <tr>
+            <tr>
             <td colspan="2" align="center">
-                <video width="100%" controls>
-                    <source src="790695121580062924.mp4" type="video/mp4">
-                </video>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+            </td>
+        </tr>
             </td>
         </tr>
         <tr>
