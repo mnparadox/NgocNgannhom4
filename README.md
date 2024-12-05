@@ -15,7 +15,6 @@
             <td colspan="2" align="center">
                 <video width="100%" controls>
                     <source src="790695121580062924.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
